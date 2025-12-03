@@ -9,8 +9,6 @@ body {
     background: #f8f9fc;
 }
 
-/* HEADER */
-
 header {
     display: flex;
     justify-content: space-between;
